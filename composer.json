@@ -1,0 +1,21 @@
+{
+    "name": "hoaaah/yii2-newshop",
+    "description": "New Shop e-Commerce Template",
+    "type": "library",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Heru Arief Wijaya",
+            "email": "heru@belajararief.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "hoaaah\\Newshop\\": ""
+        }
+    }
+}
