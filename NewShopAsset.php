@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 /**
  * Universal Business AssetBundle
  */
-class NewShopAssetAsset extends AssetBundle
+class NewShopAsset extends AssetBundle
 {
     public $sourcePath='@vendor/hoaaah/yii2-newshop/assets';
     public $baseUrl = '@web';
